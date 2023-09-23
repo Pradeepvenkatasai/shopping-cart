@@ -1,0 +1,88 @@
+let shopItemsData = [
+    {
+        id:"asdgh",
+        name:"ELLE",
+        price:1399,
+        desc: "Women Stiletto Heel Pumps",
+        img:"images/img1.jpg",
+    },
+    {
+        id:"bnhgt",
+        name:"Roadster",
+        price:979,
+        desc: "RDSTR Sweater",
+        img:"images/img2.jpg",
+    },
+    {
+        id:"ghyse",
+        name:"John Jacobs",
+        price:2849,
+        desc: "Full Rim Round Sunglasses",
+        img:"images/img3.jpg",
+    },
+    {
+        id:"ijhaq",
+        name:"MANGO",
+        price:1494,
+        desc: "Solid Handheld Bag & Strup",
+        img:"images/img4.jpg",
+    },
+    {
+        id:"iklpo",
+        name:"U.S.Polo Assn",
+        price:2599,
+        desc: "Stripped Pure cotton Shirt",
+        img:"images/img5.jpg",
+    },
+    {
+        id:"jhyyt",
+        name:"U.S.Polo Assn",
+        price:1599,
+        desc: "Slim Fit checked casual shirt",
+        img:"images/img6.jpg",
+    },
+    {
+        id:"asuqc",
+        name:"Louis philippe",
+        price:2399,
+        desc: "Men solid Leather Formal Derby",
+        img:"images/img7.jpg",
+    },
+    {
+        id:"bqehy",
+        name:"DODO & MOA",
+        price:1011,
+        desc: "Floral Crepe Midi Dress",
+        img:"images/img8.jpg",
+    },
+    {
+        id:"ldtvd",
+        name:"Jewels Galary",
+        price:1599,
+        desc: "Set of 5 Hoop Earrings",
+        img:"images/img9.jpg",
+    },
+    {
+        id:"uamaq",
+        name:"DILLINGER",
+        price:799,
+        desc: "Women Printed cotton T-shirt",
+        img:"images/img10.jpg",
+    },
+    {
+        id:"pdmaq",
+        name:"KooK N Keech",
+        price:699,
+        desc: "Pure cotton Boxy Tee T-shirt",
+        img:"images/img11.jpg",
+    },
+    {
+        id:"pqmbh",
+        name:"KISAH",
+        price:6048,
+        desc: "Woren-Design sherwani set",
+        img:"images/img12.jpg",
+    },
+    ];
+
+   
